@@ -7,6 +7,10 @@ This is a basic Android app built using Jetpack Compose. The app was developed a
 - A simple UI built using Jetpack Compose
 - Example of basic Compose components such as Text, Button, and Column
 
+
+https://user-images.githubusercontent.com/59601228/212883728-99bb6cb2-fdda-4e81-b4f8-f9f899cb33a9.mov
+
+
 ## Getting Started
 
 1. Clone the repository
